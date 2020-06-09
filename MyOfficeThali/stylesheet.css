@@ -1,0 +1,114 @@
+
+
+  .h2 {
+    font-family: Lobster, Monospace;
+  }
+
+
+.div1 {
+    float: left;
+    font-size: 16px;
+    font-family: Monospace;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.div2 {
+    float: right;
+}
+
+.div3 {
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bolder;
+    padding-top: 2cm;
+}
+
+.div4 {
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bolder;
+    color: #FF0000;
+    font-style: italic;
+}
+
+smallfont{
+  font-size: 10px;
+  font-family: cursive;
+}
+
+
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 50px; 
+   width: 100%; 
+}
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius:10px;
+  }
+
+html {
+    background-image: url(css/imgs/bckk1.jpg) ;
+  background-size: 100%;
+
+}
+
+.boxedMonday {
+  width:220px;
+  height:150px;
+  border:1px solid #000;
+  font-family: fantasy;
+  text-align: center;
+  background-image: url(css/imgs/monday.jpg);
+
+}
+
+.boxedTuesday {
+  width:220px;
+  height:150px;
+  border:1px solid #000;
+  font-family: fantasy;
+  text-align: center;
+  background-image: url(css/imgs/tuesday.jpg);
+}
+
+.boxedWednesday {
+  width:220px;
+  height:150px;
+  border:1px solid #000;
+  font-family: fantasy;
+  text-align: center;
+  background-image: url(css/imgs/wednesday.jpg);
+}
+
+.boxedThursday {
+  width:220px;
+  height:150px;
+  border:1px solid #000;
+  font-family: fantasy;
+  text-align: center;
+  background-image: url(css/imgs/thursday.jpg);
+  color: #FFF8DC;
+}
+
+.boxedFriday {
+  width:220px;
+  height:150px;
+  border:1px solid #000;
+  font-family: fantasy;
+  text-align: center;
+  background-image: url(css/imgs/friday.jpg);
+}
+
+.textaligncenter{
+  text-align: center;
+}
+
+
+
